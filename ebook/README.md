@@ -1,11 +1,18 @@
-# Ebook revisado: Academia de Jiu-Jitsu faturando mais
+# Ebook: Academia de Jiu-Jitsu faturando mais
 
-Arquivos da edição revisada, com 22 capítulos, tabelas reconstruídas e melhorias na leitura.
+## Edição em 22 aulas ilustradas
 
-- [Baixar o PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.pdf)
-- [Baixar o HTML responsivo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.html)
-- [Baixar PDF e HTML em ZIP](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-revisado.zip)
+A versão mais recente tem 115 páginas, objetivos de aprendizagem, ilustrações, mapas visuais, atividades e respostas comentadas.
 
-Se o navegador abrir o PDF, use o botão de download do próprio visualizador. Para usar a versão responsiva, baixe o HTML e abra-o no navegador. A versão HTML funciona sem conexão e inclui ajuste de letras e opção de fundo escuro.
+- [Baixar o PDF ilustrado](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.pdf)
+- [Baixar o pacote completo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/pacote-aulas-ilustradas.zip)
+- [Baixar o HTML interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.html)
+- [Instruções e prévia da capa](aulas/README.md)
 
-Se o repositório for privado, entre no GitHub com a conta que possui acesso antes de baixar.
+O pacote contém o guia em PDF, o HTML com fichas preenchíveis e aprofundamento dos 22 capítulos, o livro extenso de consulta e as instruções de uso.
+
+## Revisão anterior e material de consulta
+
+- [Livro completo de consulta em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.pdf)
+- [HTML da revisão anterior](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.html)
+- [Pacote da revisão anterior](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-revisado.zip)
