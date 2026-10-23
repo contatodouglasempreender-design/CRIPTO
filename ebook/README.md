@@ -1,33 +1,24 @@
-# Sua academia, com um plano — problemas e soluções
+# Ebook — revisão técnica parcial
 
-Edição prática do método: **55 situações em 18 capítulos**, com explicação e solução juntas.
+Revisão de 23/10/2026: 18 capítulos examinados, sete documentos técnicos oficiais consultados e 15 contas financeiras conferidas. A edição mantém 55 situações de problema e solução e acrescenta fichas concretas de campos para preencher e explicação de termos.
 
-- [Baixar o livro em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/problema-solucao/LIVRO-PROBLEMAS-E-SOLUCOES.pdf)
-- [Baixar o pacote com o guia interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/problema-solucao/guia-pratico-problemas-solucoes.zip)
+**A pesquisa ainda não está concluída.** O acesso às Centrais de Ajuda de Google, Meta, Instagram e WhatsApp ficou bloqueado. Foram confirmados campos e recursos em documentação técnica oficial; os botões atuais, elegibilidade por conta, regras de cobrança, políticas de avaliações, critérios de posicionamento e limites de vídeos continuam pendentes de validação nas respectivas páginas. Não foram criados anúncios nem alteradas contas reais.
 
-## Como está organizado
+- [Baixar a revisão técnica parcial em PDF — 121 páginas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/revisao-tecnica/REVISAO-TECNICA-PARCIAL.pdf)
+- [Baixar o pacote com guia interativo, relatório e fontes](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/revisao-tecnica/ebook-revisao-tecnica-parcial.zip)
+- [Ler o relatório dos 18 capítulos e as fontes efetivamente consultadas](https://github.com/contatodouglasempreender-design/CRIPTO/blob/main/ebook/revisao-tecnica/RELATORIO-DA-REVISAO.md)
 
-Cada situação traz **Como está hoje → O que fazer → Faça assim → Use este modelo → Como conferir**. Os exemplos são mensagens, roteiros, apresentações e contas para adaptar à própria academia. Foram retirados os casos de academia fictícia e os exemplos de resposta das atividades.
+## O que foi acrescentado
 
-No PDF de 110 páginas, cada situação fica inteira na mesma página. O mapa e os marcadores levam aos capítulos, problemas e ferramentas. A leitura principal já entrega a orientação necessária.
+- Google: nome real, categoria, endereço, telefone, site, funcionamento, feriados, descrição e verificação.
+- Meta: explicação de campanha, conjunto, anúncio, objetivo, destino, resultado e tipo de orçamento.
+- Ficha de configuração de teste local para conversas, sem prometer caminhos de tela que não foram conferidos.
+- Distinção entre orçamento diário, orçamento do período e valor efetivamente gasto.
+- Modelos de apresentação e atendimento identificados como modelos editoriais quando a ajuda oficial não pôde ser consultada.
+- Frequência de posts, aula de uma hora e calendário de 30 dias identificados como recomendações do método, não exigências de plataformas.
 
-## Como abrir o guia no computador
+## Como abrir
 
-1. Baixe o ZIP.
-2. Clique com o botão direito e escolha **Extrair tudo** → **Extrair**.
-3. Abra **ABRA-O-GUIA-PRATICO.html** na pasta extraída, usando Chrome ou Edge.
-4. Escolha o capítulo e clique no problema que quer resolver.
+Baixe o ZIP, escolha **Extrair tudo** e abra **ABRA-O-GUIA-EM-REVISAO.html** na pasta extraída com Chrome ou Edge. As anotações são opcionais, podem ser consultadas em Minhas respostas e guardadas em uma cópia. O guia funciona sem internet depois de baixado.
 
-O guia mostra um capítulo por vez. As anotações ficam fechadas em **Quero anotar meu plano (opcional)**. Você pode apenas ler e aplicar.
-
-## O que o método cobre
-
-Objetivo e público; revisão de marketing; Google; Instagram e contato; conteúdos fixados; pessoas e cultura; conteúdo para iniciantes, praticantes e quem parou; gravação; frequência e Stories; atendimento; primeira visita e acompanhamento; anúncio local; horários; bebidas; produtos; particulares e planos; eventos; preparação para competição; documentação do trabalho; propostas de patrocínio e revisão do resultado.
-
-Há também 16 ferramentas de consulta, com calendários, 36 roteiros por público, 35 sugestões de Stories, lista de interessados e modelos de contas e controle. A rotina mantém três Reels por semana com anúncio, ou a proposta de Reels diários sem anúncio, e quatro a cinco Stories por dia.
-
-## Anotações opcionais
-
-Em **Minhas respostas**, consulte e edite o que escreveu, guarde uma cópia ou salve suas anotações em PDF. O guia funciona sem internet depois de baixado. As anotações ficam neste navegador quando ele permite salvar; guarde uma cópia antes de limpar o navegador ou trocar de aparelho. Cada edição tem seu próprio arquivo de respostas. As versões anteriores continuam preservadas nas outras pastas.
-
-Valores e frequências são exemplos para adaptar e acompanhar. Não há promessa de matrícula, posição no Google ou faturamento.
+O pacote está identificado como revisão parcial. Para encerrar a validação, ainda é necessário acessar as Centrais de Ajuda e conferir os procedimentos nas telas de uma conta elegível.
