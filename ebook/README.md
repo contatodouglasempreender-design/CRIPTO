@@ -1,24 +1,21 @@
-# Ebook: Academia de Jiu-Jitsu faturando mais
+# Academia de Jiu-Jitsu faturando mais
 
-## Guia interativo
+O guia foi reescrito em linguagem simples: frases curtas, palavras do dia a dia e contas explicadas passo a passo.
 
-[Baixar o guia para preencher e consultar Minhas respostas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-interativo-respostas.html)
+- [Baixar o livro em PDF — 138 páginas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-linguagem-simples.pdf)
+- [Baixar o guia para preencher](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-interativo-simples.html)
+- [Baixar os dois arquivos com instruções](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/pacote-linguagem-simples.zip)
 
-Abra o arquivo HTML no navegador, preencha uma aula e clique em Minhas respostas. Você pode filtrar, editar, comparar com comentários e salvar suas respostas em PDF. As respostas ficam no navegador; use a opção de guardar uma cópia para continuar em outro aparelho.
+São 22 aulas, 66 atividades com exemplos de resposta, 66 perguntas com explicações, 8 ilustrações e 11 fichas para usar na academia.
 
-## Edição em 22 aulas ilustradas
+## Como usar
 
-A versão mais recente tem 115 páginas, objetivos de aprendizagem, ilustrações, mapas visuais, atividades e respostas comentadas.
+1. Baixe o PDF para ler ou o HTML para preencher.
+2. Abra o HTML no navegador e escolha uma aula.
+3. Leia o exemplo e escreva suas respostas.
+4. Clique em **Minhas respostas** para consultar ou editar o que escreveu.
+5. Use **Guardar uma cópia** para guardar suas respostas em um arquivo.
 
-- [Baixar o PDF ilustrado](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.pdf)
-- [Baixar o pacote completo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/pacote-aulas-ilustradas.zip)
-- [Baixar o HTML interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-interativo-respostas.html)
-- [Instruções e prévia da capa](aulas/README.md)
+Você também pode salvar suas respostas em PDF pelo painel. As respostas ficam no navegador deste aparelho quando o armazenamento está disponível. Para continuar em outro navegador ou aparelho, leve sua cópia e use **Abrir minha cópia**. O guia funciona sem internet depois de baixado. As perguntas abertas têm explicações para conferir; não recebem nota automática.
 
-O pacote contém o guia em PDF, o HTML com fichas preenchíveis e aprofundamento dos 22 capítulos, o livro extenso de consulta e as instruções de uso.
-
-## Revisão anterior e material de consulta
-
-- [Livro completo de consulta em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.pdf)
-- [HTML da revisão anterior](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-academia-jiu-jitsu-revisado.html)
-- [Pacote da revisão anterior](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/ebook-revisado.zip)
+O pacote desta edição contém somente o livro em linguagem simples, o guia para preencher e as instruções. Os arquivos da edição anterior continuam preservados na pasta ebook do repositório.

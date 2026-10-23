@@ -1,20 +1,19 @@
-GUIA INTERATIVO: PREENCHA E CONSULTE SUAS RESPOSTAS
+COMECE AQUI — GUIA EM LINGUAGEM SIMPLES
 
-1. Abra guia-interativo-respostas.html no navegador (Chrome, Edge ou Firefox).
-2. Clique em Aulas e escolha o capítulo que quer estudar.
-3. Preencha as atividades e as perguntas de revisão com suas próprias palavras.
-4. Clique em Minhas respostas para consultar seu caderno, filtrar por aula e voltar para editar.
-5. Use Salvar todas as respostas em PDF para imprimir ou escolher Salvar como PDF na janela do navegador.
+PARA LER
+Abra guia-linguagem-simples.pdf. São 22 aulas em 138 páginas.
 
-As respostas ficam neste navegador quando o armazenamento está disponível.
-Para continuar em outro aparelho ou navegador, use Guardar cópia para continuar depois e guarde o arquivo baixado. No outro aparelho, abra o guia e use Restaurar uma cópia.
-Baixar todas as respostas para leitura cria um arquivo HTML independente, que você pode abrir sem o guia.
-As respostas às perguntas de revisão podem ser comparadas com os comentários do material; o guia não atribui notas automáticas às respostas abertas.
+PARA PREENCHER
+1. Abra guia-interativo-simples.html no navegador (Chrome, Edge ou Firefox).
+2. Escolha uma aula. Leia a explicação e o exemplo.
+3. Veja o exemplo de resposta antes de preencher sua atividade.
+4. Escreva suas respostas nos campos.
+5. Clique em Minhas respostas para ver o que você escreveu.
+6. Use Guardar uma cópia para baixar um arquivo com suas respostas.
+7. Para continuar em outro navegador, abra o guia e use Abrir minha cópia.
 
-As ilustrações estão incorporadas: o guia funciona sem conexão depois de baixado.
-
-MATERIAL DE LEITURA
-
-guia-aulas-ilustradas.pdf: 115 páginas de aulas ilustradas, atividades, mapas visuais, 11 modelos e respostas comentadas.
-livro-completo-de-consulta.pdf: versão extensa revisada, para aprofundar os assuntos.
-No HTML, o aprofundamento de cada capítulo também pode ser aberto no final da aula.
+As respostas ficam no navegador deste aparelho quando ele permite salvar.
+Guarde uma cópia antes de trocar de aparelho ou limpar o navegador.
+O PDF é para leitura. Os campos para escrever estão no arquivo HTML.
+As imagens já estão no arquivo. Depois de baixar, você pode usar sem internet.
+As perguntas abertas têm explicações para conferir; não recebem nota automática.
