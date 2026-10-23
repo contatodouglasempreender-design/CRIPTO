@@ -1,34 +1,40 @@
-# Sua academia, um passo de cada vez
+# Sua academia, com um plano
 
-Guia fácil de Jiu-Jitsu: **8 passos em 17 páginas**, com frases curtas, três ações por tarefa, um exemplo e espaço para escrever.
+Manual de implementação baseado na metodologia do autor: **104 páginas, 18 capítulos e 16 ferramentas**. Explicações em linguagem simples, ações numeradas, exemplos preenchidos e tarefas para aplicar na academia de Jiu-Jitsu.
 
-- [Baixar o pacote para abrir e preencher](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-facil/guia-facil-8-passos.zip)
-- [Baixar somente o livro em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-facil/LEIA-O-LIVRO.pdf)
+- [Baixar o livro em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/manual-implementacao/LEIA-O-MANUAL.pdf)
+- [Baixar o pacote com o livro e o manual para preencher](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/manual-implementacao/manual-completo-academia.zip)
 
-## Como abrir no computador
+## Como abrir o manual interativo
 
 1. Baixe o pacote ZIP.
-2. Clique nele com o botão direito e escolha **Extrair tudo** → **Extrair**.
-3. Abra **ABRA-O-GUIA.html** na pasta extraída. Se precisar, escolha Chrome ou Edge.
-4. Clique em **Começar pelo passo 1**.
+2. Clique com o botão direito e escolha **Extrair tudo** → **Extrair**.
+3. Na pasta extraída, abra **ABRA-O-MANUAL.html** no Chrome ou Edge.
+4. Clique em **Começar pelo capítulo 1**.
 
-## O que fazer em cada passo
+O manual mostra um capítulo por vez. Use **Próximo capítulo**, **Mapa do livro**, **Ferramentas** e **Minhas respostas**. O PDF tem números de página, marcadores e links internos.
 
-1. Escolha quem você quer receber.
-2. Arrume o caminho até a academia.
-3. Grave seu primeiro vídeo.
-4. Siga uma semana pronta.
-5. Responda e marque a primeira visita.
-6. Mostre a academia para a região.
-7. Escolha uma venda extra.
-8. Confira e escolha o próximo passo.
+## O caminho de implementação
 
-O guia interativo mostra uma tarefa por vez. Use **Próximo passo** para seguir ou **Ver os 8 passos** para escolher uma tarefa. As ideias extras só abrem quando você pede.
+1. Escolher objetivo e público: novos, praticantes ou pessoas que pararam.
+2. Revisar Google, Instagram, WhatsApp, site e atendimento.
+3. Organizar descrição, destaques, três conteúdos fixados e participação das pessoas.
+4. Preparar conteúdo por público, com conexão, qualidade do ensino e convite.
+5. Gravar com celular e montar os primeiros dez Reels.
+6. Usar três Reels por semana com anúncio, ou a proposta de Reels diários sem anúncio, e quatro a cinco Stories por dia.
+7. Atender, registrar interessados, preparar a primeira visita e acompanhar depois.
+8. Planejar um teste local com limite de gasto e atendimento pronto.
+9. Organizar aulas de uma hora, intervalos e avaliação de novas turmas.
+10. Calcular bebidas, produtos, particulares, planos, eventos e outras ofertas antes de gastar.
+11. Documentar o trabalho, avaliar preparação para competição e possíveis propostas de patrocínio.
+12. Implementar em uma ordem de 30 dias, com conferência semanal.
 
-O método mantém três Reels por semana, quatro a cinco Stories por dia, presença do professor, divulgação na região, atendimento e contas antes de uma venda extra. As palavras do Instagram são explicadas no texto. A frequência e os valores são exemplos de trabalho para adaptar; não há promessa de faturamento.
+## Ferramentas e atividades
 
-## Suas respostas
+Há 54 atividades com exemplos de resposta e campos de responsável e data. As 16 ferramentas incluem revisão do marketing, perfis, dez primeiros vídeos, calendários, 35 ideias de Stories, 36 roteiros por público, lista de interessados, anúncio, horários, contas, vendas, planos e revisão semanal.
 
-Escreva em cada passo e consulte em **Minhas respostas**. Você pode editar, salvar as respostas em PDF, guardar uma cópia e abrir essa cópia em outro aparelho. O guia funciona sem internet depois de baixado. As respostas ficam neste navegador quando ele permite salvar; guarde uma cópia antes de limpar o navegador.
+No calendário, clique no código para abrir o roteiro. Em **Minhas respostas**, consulte e edite o que escreveu, guarde uma cópia ou salve suas respostas em PDF. A cópia permite continuar em outro aparelho usando o mesmo manual.
 
-Este guia fácil tem seu próprio arquivo de respostas. As edições anteriores e os arquivos delas continuam preservados na pasta ebook/aulas.
+O arquivo funciona sem internet depois de baixado. As respostas ficam neste navegador quando o armazenamento está disponível. Esta edição tem um arquivo de respostas próprio; as versões anteriores continuam preservadas nas outras pastas de ebook.
+
+Frequências, valores e metas são orientações e exemplos para adaptar. Não há garantia de matrícula, posição no Google ou faturamento. A manutenção semanal do Google é explicada sem atribuir a ela, sozinha, a posição nas buscas.
