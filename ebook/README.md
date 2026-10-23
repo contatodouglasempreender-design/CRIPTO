@@ -1,34 +1,34 @@
-# Academia de Jiu-Jitsu faturando mais
+# Sua academia, um passo de cada vez
 
-Edição baseada no método enviado pelo autor: escolher objetivo e público, organizar a academia e os perfis, mostrar pessoas e rotina, divulgar na região, atender e calcular outras vendas.
+Guia fácil de Jiu-Jitsu: **8 passos em 17 páginas**, com frases curtas, três ações por tarefa, um exemplo e espaço para escrever.
 
-- [Baixar o livro — 167 páginas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-metodo-pratico.pdf)
-- [Baixar o guia para preencher](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-metodo-interativo.html)
-- [Baixar os dois arquivos com instruções](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/pacote-metodo-pratico.zip)
+- [Baixar o pacote para abrir e preencher](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-facil/guia-facil-8-passos.zip)
+- [Baixar somente o livro em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-facil/LEIA-O-LIVRO.pdf)
 
-## O que você encontra
+## Como abrir no computador
 
-São 22 aulas em linguagem simples, 66 atividades com exemplos de resposta, 66 perguntas com explicações, 8 ilustrações e 19 fichas.
+1. Baixe o pacote ZIP.
+2. Clique nele com o botão direito e escolha **Extrair tudo** → **Extrair**.
+3. Abra **ABRA-O-GUIA.html** na pasta extraída. Se precisar, escolha Chrome ou Edge.
+4. Clique em **Começar pelo passo 1**.
 
-- Três calendários de quatro semanas com três Reels semanais: iniciantes, praticantes e quem parou.
-- 36 roteiros com fala de abertura, cenas e convite final. No HTML, os códigos dos calendários levam aos roteiros.
-- Uma semana com 35 sugestões de Stories para fazer quatro a cinco por dia com variedade.
-- Organização do Google, Instagram, avaliações sinceras, destaques e conteúdos fixados.
-- Participação do professor, reposts autorizados, vídeos em conjunto e rotina real.
-- Exemplo de teste pago para a região e rotina de conteúdo para quem está sem verba.
-- Atendimento, primeira aula, horários organizados e plano gradual de 21 dias.
-- Produtos, bebidas, particulares, eventos e planos, com exemplos de contas antes de gastar.
+## O que fazer em cada passo
 
-## Como começar
+1. Escolha quem você quer receber.
+2. Arrume o caminho até a academia.
+3. Grave seu primeiro vídeo.
+4. Siga uma semana pronta.
+5. Responda e marque a primeira visita.
+6. Mostre a academia para a região.
+7. Escolha uma venda extra.
+8. Confira e escolha o próximo passo.
 
-1. Baixe o PDF para ler ou o HTML para preencher.
-2. Abra o HTML no navegador e escolha seu objetivo na aula 1.
-3. Vá à Ficha 13 e escolha o calendário do seu público.
-4. Clique no código do roteiro para ver o que falar e gravar.
-5. Use a Ficha 14 para variar os Stories.
-6. Preencha as atividades e clique em **Minhas respostas**.
-7. Use **Guardar uma cópia** para levar suas respostas para outro navegador ou aparelho; depois use **Abrir minha cópia**.
+O guia interativo mostra uma tarefa por vez. Use **Próximo passo** para seguir ou **Ver os 8 passos** para escolher uma tarefa. As ideias extras só abrem quando você pede.
 
-O guia funciona sem internet depois de baixado. As respostas ficam neste navegador quando o armazenamento está disponível. Também é possível salvar suas respostas em PDF pelo painel. As perguntas abertas têm explicações para conferir; não recebem nota automática.
+O método mantém três Reels por semana, quatro a cinco Stories por dia, presença do professor, divulgação na região, atendimento e contas antes de uma venda extra. As palavras do Instagram são explicadas no texto. A frequência e os valores são exemplos de trabalho para adaptar; não há promessa de faturamento.
 
-Frequências, valores e metas são pontos de partida para adaptar e acompanhar. Não há promessa de matrículas ou faturamento. Os links das edições em aulas anteriores também foram atualizados para esta edição.
+## Suas respostas
+
+Escreva em cada passo e consulte em **Minhas respostas**. Você pode editar, salvar as respostas em PDF, guardar uma cópia e abrir essa cópia em outro aparelho. O guia funciona sem internet depois de baixado. As respostas ficam neste navegador quando ele permite salvar; guarde uma cópia antes de limpar o navegador.
+
+Este guia fácil tem seu próprio arquivo de respostas. As edições anteriores e os arquivos delas continuam preservados na pasta ebook/aulas.
