@@ -1,19 +1,32 @@
-COMECE AQUI — GUIA EM LINGUAGEM SIMPLES
+COMECE AQUI — MÉTODO PRÁTICO PARA ACADEMIAS DE JIU-JITSU
 
 PARA LER
-Abra guia-linguagem-simples.pdf. São 22 aulas em 138 páginas.
+Abra guia-metodo-pratico.pdf. São 22 aulas em 167 páginas.
 
 PARA PREENCHER
-1. Abra guia-interativo-simples.html no navegador (Chrome, Edge ou Firefox).
-2. Escolha uma aula. Leia a explicação e o exemplo.
-3. Veja o exemplo de resposta antes de preencher sua atividade.
-4. Escreva suas respostas nos campos.
-5. Clique em Minhas respostas para ver o que você escreveu.
-6. Use Guardar uma cópia para baixar um arquivo com suas respostas.
-7. Para continuar em outro navegador, abra o guia e use Abrir minha cópia.
+1. Abra guia-metodo-interativo.html no navegador (Chrome, Edge ou Firefox).
+2. Comece pela aula 1: escolha seu objetivo e o tipo de aluno.
+3. Use a Ficha 13 para escolher um calendário de Reels.
+4. Use a Ficha 14 para planejar quatro a cinco Stories por dia.
+5. Clique no código de um roteiro do calendário para abrir a fala e as cenas.
+6. Preencha as atividades com as informações reais da sua academia.
+7. Clique em Minhas respostas para consultar ou editar.
+8. Use Guardar uma cópia para baixar um arquivo com suas respostas.
+9. Em outro navegador ou aparelho, abra o guia e use Abrir minha cópia.
+
+O QUE HÁ NESTA EDIÇÃO
+- Objetivo, público, estrutura, perfis e atendimento.
+- Três calendários de quatro semanas: iniciantes, praticantes e quem parou.
+- 36 roteiros com abertura, cena e convite final.
+- 35 sugestões de Stories para variar a semana.
+- Exemplo de anúncio para a região e alternativa sem verba.
+- Produtos, bebidas, particulares, eventos, planos e contas explicadas.
+- 19 fichas e 66 atividades com exemplo de resposta.
 
 As respostas ficam no navegador deste aparelho quando ele permite salvar.
 Guarde uma cópia antes de trocar de aparelho ou limpar o navegador.
-O PDF é para leitura. Os campos para escrever estão no arquivo HTML.
-As imagens já estão no arquivo. Depois de baixar, você pode usar sem internet.
+O PDF é para leitura; os campos para escrever estão no HTML.
+No painel Minhas respostas, você também pode salvar suas respostas em PDF.
+Depois de baixar, o guia funciona sem internet, inclusive as imagens.
 As perguntas abertas têm explicações para conferir; não recebem nota automática.
+As metas, os preços e os limites de anúncio são exemplos para adaptar, não resultados garantidos.
