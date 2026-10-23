@@ -1,6 +1,12 @@
 # Academia de Jiu-Jitsu faturando mais
 
-## Nova edição: guia em 22 aulas ilustradas
+## Guia interativo: preencha e veja suas respostas
+
+**[Baixar o guia interativo com Minhas respostas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-interativo-respostas.html)**
+
+Baixe o HTML, abra-o no navegador e escolha uma aula. Depois de preencher, clique em **Minhas respostas** para consultar, filtrar por aula, editar, comparar as perguntas de revisão e salvar todas as respostas em PDF. Cada leitor mantém suas respostas no próprio navegador e pode exportar uma cópia para restaurar depois.
+
+## Livro em 22 aulas ilustradas
 
 **[Baixar o ebook ilustrado em PDF — 115 páginas](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.pdf)**
 

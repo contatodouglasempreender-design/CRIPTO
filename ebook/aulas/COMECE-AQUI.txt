@@ -1,24 +1,20 @@
-COMECE PELO PDF
+GUIA INTERATIVO: PREENCHA E CONSULTE SUAS RESPOSTAS
 
-1. Abra guia-aulas-ilustradas.pdf para ler as 22 aulas ilustradas.
-2. Use as atividades e os 11 modelos para colocar as ideias em prática.
-3. Confira as respostas comentadas no final do PDF.
+1. Abra guia-interativo-respostas.html no navegador (Chrome, Edge ou Firefox).
+2. Clique em Aulas e escolha o capítulo que quer estudar.
+3. Preencha as atividades e as perguntas de revisão com suas próprias palavras.
+4. Clique em Minhas respostas para consultar seu caderno, filtrar por aula e voltar para editar.
+5. Use Salvar todas as respostas em PDF para imprimir ou escolher Salvar como PDF na janela do navegador.
 
-VERSÃO INTERATIVA
+As respostas ficam neste navegador quando o armazenamento está disponível.
+Para continuar em outro aparelho ou navegador, use Guardar cópia para continuar depois e guarde o arquivo baixado. No outro aparelho, abra o guia e use Restaurar uma cópia.
+Baixar todas as respostas para leitura cria um arquivo HTML independente, que você pode abrir sem o guia.
+As respostas às perguntas de revisão podem ser comparadas com os comentários do material; o guia não atribui notas automáticas às respostas abertas.
 
-Abra guia-aulas-ilustradas.html no navegador (Chrome, Edge ou Firefox, por exemplo).
-O arquivo contém as próprias ilustrações e funciona sem conexão depois de baixado.
-Nele você pode preencher as fichas, marcar aulas concluídas e abrir o aprofundamento de cada capítulo.
-As fichas ficam no navegador, quando o armazenamento está disponível. Use “Exportar minhas respostas” para guardar uma cópia e “Restaurar minhas respostas” para recuperá-la.
-Para consultar o texto extenso, clique em “Aprofundamento · consultar o capítulo completo” dentro da aula.
+As ilustrações estão incorporadas: o guia funciona sem conexão depois de baixado.
 
-LIVRO COMPLETO DE CONSULTA
+MATERIAL DE LEITURA
 
-livro-completo-de-consulta.pdf contém a versão revisada extensa que acompanha este guia.
-O guia em aulas organiza a aplicação; o livro de consulta preserva as explicações e os modelos extensos.
-
-O QUE VOCÊ RECEBE
-
-22 aulas guiadas em 6 módulos; 8 ilustrações temáticas; 22 mapas visuais;
-66 atividades; 66 perguntas com respostas comentadas; 11 modelos de aplicação.
-O guia em aulas possui 115 páginas. As situações e os números da Tatame Forte são fictícios e didáticos.
+guia-aulas-ilustradas.pdf: 115 páginas de aulas ilustradas, atividades, mapas visuais, 11 modelos e respostas comentadas.
+livro-completo-de-consulta.pdf: versão extensa revisada, para aprofundar os assuntos.
+No HTML, o aprofundamento de cada capítulo também pode ser aberto no final da aula.

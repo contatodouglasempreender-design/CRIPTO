@@ -4,7 +4,7 @@ Guia de aplicação com **115 páginas**, organizado em 6 módulos, com objetivo
 
 - [Baixar o PDF ilustrado](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.pdf)
 - [Baixar o pacote completo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/pacote-aulas-ilustradas.zip)
-- [Baixar o HTML interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-aulas-ilustradas.html)
+- [Baixar o HTML interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/aulas/guia-interativo-respostas.html)
 
 O pacote inclui o guia em PDF, o HTML interativo, o livro completo de consulta e um arquivo de instruções.
 
@@ -14,11 +14,21 @@ Cada aula segue a sequência: entender a ideia, visualizar o mapa e o exemplo, e
 
 São 8 ilustrações temáticas, 22 mapas visuais, 66 atividades, 66 perguntas de revisão e 11 modelos para copiar ou imprimir.
 
-## Versão interativa
+## Minhas respostas
 
-Depois de baixar o HTML, abra-o no navegador. As imagens estão incorporadas; não é necessário baixar uma pasta de imagens. As fichas e aulas concluídas são salvas nesse navegador quando ele permite armazenamento. Exporte suas respostas para guardar uma cópia ou continuar em outro navegador.
+1. Baixe o HTML interativo e abra-o no navegador.
+2. Escolha uma aula e preencha as atividades e as perguntas de revisão.
+3. Clique em **Minhas respostas** para ver seu caderno por aula.
+4. Use **Editar minha resposta** para voltar ao campo correspondente.
+5. Use **Salvar todas as respostas em PDF** para abrir a impressão e selecionar Salvar como PDF.
 
-O conteúdo extenso dos 22 capítulos está disponível em **Aprofundamento**, no final de cada aula do HTML. O PDF de consulta também acompanha o ZIP. O PDF de aulas contém o percurso guiado e os modelos de aplicação.
+O painel também permite mostrar pendências, comparar suas explicações com as respostas comentadas e baixar uma cópia independente para leitura. As perguntas abertas não recebem nota automática.
+
+As respostas são salvas neste navegador quando o armazenamento está disponível. Use **Guardar cópia para continuar depois** para fazer um backup e **Restaurar uma cópia** para recuperar as respostas em outro navegador ou aparelho.
+
+As imagens estão incorporadas; o HTML funciona sem conexão depois de baixado. O conteúdo extenso dos 22 capítulos continua no aprofundamento de cada aula. O PDF estático de 115 páginas e o livro de consulta acompanham o pacote.
+
+![Painel Minhas respostas no celular](previa-minhas-respostas.png)
 
 ## Prévia da capa
 
