@@ -1,0 +1,66 @@
+[
+  {
+    "id": "F1",
+    "url": "https://raw.githubusercontent.com/facebook/facebook-python-business-sdk/main/facebook_business/adobjects/campaign.py",
+    "name": "Meta: objetivos e orçamento de campanha",
+    "sha256": "3abe1426d0f27c6edc4e9e08503748f2e78814a653495ce2bfc3e11851ba1ba8",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F2",
+    "url": "https://raw.githubusercontent.com/facebook/facebook-python-business-sdk/main/facebook_business/adobjects/adset.py",
+    "name": "Meta: destinos, orçamento e programação",
+    "sha256": "09bb520a7fd99e8e4790ed570f86767c4d1e30070ae7324697c03dba710608ee",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F3",
+    "url": "https://raw.githubusercontent.com/facebook/facebook-python-business-sdk/main/facebook_business/adobjects/targeting.py",
+    "name": "Meta: campos de público e localização",
+    "sha256": "e57afdcf4846a244a369cc3d082a45018906b33e3d73b519b375b7f3443d3a56",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F4",
+    "url": "https://raw.githubusercontent.com/facebook/facebook-python-business-sdk/main/README.md",
+    "name": "Meta: visão geral da ferramenta de anúncios",
+    "sha256": "e815725e951a5024ee99694d7551b5d99f2e82e30f05cd0403f12ab6a6f92777",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F5",
+    "url": "https://raw.githubusercontent.com/googleapis/google-api-python-client/main/docs/dyn/mybusinessbusinessinformation_v1.locations.html",
+    "name": "Google: campos do Perfil da Empresa",
+    "sha256": "93330a10e28401982afe1f536f77a06c8349e5ac9cefff463b6748fe96d5cc5d",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F6",
+    "url": "https://raw.githubusercontent.com/googleapis/google-api-python-client/main/docs/dyn/mybusinessverifications_v1.locations.html",
+    "name": "Google: verificação, acesso e revisão",
+    "sha256": "f7fb80fa7e25259cb8e0ea173073549d2934332eb805ab5b1a1960e49d860a2e",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F7",
+    "url": "https://raw.githubusercontent.com/googleapis/google-api-python-client/main/docs/dyn/mybusinessaccountmanagement_v1.accounts.html",
+    "name": "Google: contas e administração",
+    "sha256": "95b5f4851ae6edad4cdb8e65a1e3d3f7e5801a619b251ab824753d688ccd482c",
+    "date": "24/10/2026",
+    "status": 200
+  },
+  {
+    "id": "F8",
+    "url": "https://raw.githubusercontent.com/facebook/facebook-python-business-sdk/main/facebook_business/adobjects/adsinsights.py",
+    "name": "Meta: métricas dos anúncios",
+    "date": "24/10/2026",
+    "status": 200,
+    "sha256": "4fd1e5006619a90ebe37c09fe8cd59f21a7f8e6dfcaa331b50e3f303755d71c4"
+  }
+]
