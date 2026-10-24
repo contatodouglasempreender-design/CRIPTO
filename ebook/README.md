@@ -1,37 +1,37 @@
-# Sua academia, com um plano — guia em aulas
+# Sua academia, com um plano — guia visual
 
-Edição organizada como **18 aulas guiadas**, em 107 páginas. O professor prepara o básico, entende as palavras, segue a tarefa, adapta um modelo e confere se terminou.
+**18 aulas práticas**, com mapas simples, exemplos desenhados, palavras claras e ações numeradas. O livro principal tem 53 páginas, com letras maiores. O caderno de consulta é opcional.
 
-- [Baixar o livro em PDF](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-em-aulas/LIVRO-GUIA-EM-AULAS.pdf)
-- [Baixar o pacote com o guia interativo](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-em-aulas/guia-em-aulas.zip)
+- [Baixar o livro visual](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-visual/01-LIVRO-VISUAL.pdf)
+- [Baixar o pacote com guia interativo e caderno extra](https://github.com/contatodouglasempreender-design/CRIPTO/raw/refs/heads/main/ebook/guia-visual/guia-visual-completo.zip)
 
-## Como abrir no computador
+## Como começar
 
-1. Baixe o ZIP.
-2. Clique com o botão direito e escolha **Extrair tudo** → **Extrair**.
-3. Abra **ABRA-O-GUIA-EM-AULAS.html** na pasta extraída, com Chrome ou Edge.
-4. Clique em **Começar pela aula 1** e siga **Próxima aula**.
+Abra **01-LIVRO-VISUAL.pdf** para ler.
 
-## A leitura principal
+Para preencher anotações no computador: baixe o ZIP, clique com o botão direito, escolha **Extrair tudo** → **Extrair** e abra **ABRA-O-GUIA-VISUAL.html** com Chrome ou Edge. Clique em **Começar pela aula 1**.
 
-Cada aula tem: o que preparar; palavras explicadas; orientação em linguagem simples; ações numeradas; modelo pronto para adaptar; e conferência da tarefa. O guia mostra uma aula por vez, permite continuar de onde parou e mantém as anotações opcionais. O PDF tem mapa, páginas, links e marcadores.
+## O que mudou
 
-O caminho segue o método do autor: público e objetivo → revisão do marketing → Google e Instagram → apresentação e cultura → conteúdo por público → gravação e rotina → atendimento → divulgação → horários e novas vendas → revisão semanal.
+- Foram retirados os campos de responsável e prazo das aulas e os quadros de delegação das fichas.
+- Cada aula começa com um mapa de três partes, com ícones grandes e poucas palavras.
+- Há cinco exemplos desenhados: escolha do público, apresentação do perfil, preparação para gravar, Stories e conta de uma bebida.
+- A explicação é seguida por ações e por um modelo para copiar e adaptar.
+- As anotações são opcionais: um espaço por aula, sem prova ou gabarito.
+- O guia mostra uma aula por vez. Use **Próxima aula**, **Mapa das aulas** e **Minhas anotações**.
 
-## Conteúdo natural explicado
+O arquivo **02-EXEMPLOS-PARA-CONSULTAR.pdf**, de 39 páginas, reúne mais calendários, roteiros, mensagens e contas. Ele não precisa ser lido para começar o livro principal.
 
-A aula de conteúdo distingue publicação orgânica, estilo natural, produção lo-fi e conversa espontânea, também chamada informalmente de yapping. Há falas, cenas e convites para gravar. Reels e Stories são explicados como ferramentas diferentes; a comparação entre eles é sobre linguagem de gravação.
+O método continua com escolha do público, revisão do Google e do perfil, pessoas e cultura, vídeos simples e naturais, rotina de publicações, atendimento, divulgação na região, horários e novas vendas calculadas.
 
-O livro ensina rotina com três Reels semanais com anúncio, a proposta de Reels diários sem anúncio e quatro a cinco Stories diários. Essas são recomendações do método, não exigências das plataformas. Há modelos de semanas prontas e de dias em que a academia está fechada.
+## Para ler com conforto
 
-Os 17 modelos de apoio incluem calendários, 36 roteiros por público, 35 ideias de Stories, atendimento, anúncio, contas e revisão. Nas aulas de Google e Meta Ads, os campos para preencher ficam junto da orientação.
+O texto principal do PDF usa 12,5 pontos, com espaçamento amplo. Os desenhos continuam nítidos quando você aumenta a página. No celular, os cartões se organizam de cima para baixo. Os desenhos ilustram ideias; não são capturas oficiais das telas dos aplicativos.
 
-## Pesquisa e limites
+## Suas anotações
 
-Oito documentos técnicos oficiais foram consultados novamente em 24/10/2026. Confirmam campos e recursos do Google e da Meta. As Centrais de Ajuda e o blog do Instagram retornaram bloqueio de acesso; as telas e botões atuais e alegações de vantagem geral de lo-fi ou yapping não foram integralmente verificados. O livro apresenta os estilos como práticas para testar, sem prometer alcance, conexão, posição no Google ou faturamento.
+Use **Guardar uma cópia** antes de limpar o navegador ou mudar de aparelho. Para recuperar, abra este mesmo guia e use **Abrir minha cópia**. Também é possível salvar as anotações em PDF. O arquivo funciona sem internet depois de baixado. Cada edição tem seu próprio caderno; as anteriores continuam preservadas.
 
-[Veja as fontes e os limites](FONTES-E-LIMITES.md). Não foram publicados anúncios nem alteradas contas reais.
+## Fontes e limites
 
-## Anotações
-
-Em **Minhas respostas**, veja e edite o que escreveu, guarde uma cópia ou salve suas anotações em PDF. O guia funciona sem internet depois de baixado. As anotações ficam neste navegador quando ele permite salvar; guarde uma cópia antes de trocar de aparelho ou limpar o navegador. Esta edição tem seu próprio caderno; as versões anteriores continuam preservadas nas outras pastas.
+Os documentos técnicos oficiais consultados em 24/10/2026 ajudam a conferir campos do Google e da Meta. As telas atuais e uma suposta vantagem geral de lo-fi ou conversa espontânea não foram integralmente verificadas. Frequências e prazos do método são orientações, não exigências da plataforma nem garantias de faturamento. [Veja o registro da pesquisa](FONTES-E-LIMITES.md).
