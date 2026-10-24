@@ -1,0 +1,7 @@
+BAIXAR E ABRIR O LIVRO
+
+Para ler sem instalar nada, abra LIVRO-PASSO-A-PASSO.pdf.
+
+Para usar o guia no navegador, extraia pacote-passo-a-passo.zip e abra ABRA-O-GUIA.html.
+
+O PDF é o livro completo para ler, imprimir ou enviar.
